@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14839096309",
+    "project_id": "login-register-firebase-875f9",
+    "storage_bucket": "login-register-firebase-875f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14839096309:android:0d4bc7b6e5bb50819376bc",
+        "android_client_info": {
+          "package_name": "edu.qc.seclass.fim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14839096309-pdpr9cbtknajtdqrslelivifkit5q14g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9kxfpfK4qjOtRcU1lDqmMTqlyxx8b2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14839096309-pdpr9cbtknajtdqrslelivifkit5q14g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

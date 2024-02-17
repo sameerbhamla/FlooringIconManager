@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FIM</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="select_category" />
+
+    <string-array name="categories">
+        <item>Tile</item>
+        <item>Stone</item>
+        <item>Wood</item>
+        <item>Laminate</item>
+        <item>Vinyl</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,3 @@
+The user can access the database and select the category and the type of the floor. 
+Then once in the category the user can pick which type by clicking 1,2,3... and the color, size, brand, price.
+Once in the type the user can navigate by clicking 1,2,3,... and picking the desired type.

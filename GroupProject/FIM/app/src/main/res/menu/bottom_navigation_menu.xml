@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/store1"
+        android:icon="@drawable/baseline_store_24"
+        android:title="Store 1" />
+    <item
+        android:id="@+id/store2"
+        android:icon="@drawable/baseline_store_24"
+        android:title="Store 2" />
+    <item
+        android:id="@+id/store3"
+        android:icon="@drawable/baseline_store_24"
+        android:title="Store 3" />
+</menu>
